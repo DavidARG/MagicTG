@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Magic: El encuentro</string>
+    <string name="carta1">Ragavan, ratero hábil</string>
+    <string name="descripcion1">Siempre que Ragavan, ratero hábil haga daño de combate a un jugador, crea una ficha de Tesoro y exilia la primera carta de la biblioteca de ese jugador. Hasta el final del turno, puedes lanzar esa carta.\nRapidez {1}{R}</string>
+    <string name="carta2">Epifanía de Alrund</string>
+    <string name="descripcion2">Crea dos fichas de criatura Ave azules 1/1 con la habilidad de volar. Juega un turno adicional después de este. Exilia la Epifanía de Alrund.\nProfetizar {4}{U}{U}</string>
+    <string name="carta3">Regente marea lúgubre</string>
+    <string name="descripcion3">Excavar.\nVuela.\nEl Regente marea lúgubre entra al campo de batalla con un contador +1/+1 sobre él por cada carta de instantáneo y de conjuro exiliada con él.\nSiempre que una carta de instantáneo o de conjuro deje tu cementerio, pon un contador +1/+1 sobre el Regente marea lúgubre.</string>
+    <string name="carta4">Dragón del puente dorado</string>
+    <string name="descripcion4">Vuela, prisa.\nSiempre que el Dragón del puente dorado ataque o sea objetivo de un hechizo, crea una ficha de Tesoro.\nLos Tesoros que controlas tienen \"{T}, sacrificar este artefacto: Agrega dos manás de un color cualquiera\".</string>
+    <string name="carta5">Iteración expresiva</string>
+    <string name="descripcion5">Mira las tres primeras cartas de tu biblioteca. Pon una de ellas en tu mano, una de ellas en el fondo de tu biblioteca y exilia una de ellas. Puedes jugar la carta exiliada este turno.</string>
+</resources>
